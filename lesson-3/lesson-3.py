@@ -1,5 +1,5 @@
 import json
-
+# JSON faylni o'qib olish
 f = open('data.json')
 data = json.load(f)
 
